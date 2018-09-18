@@ -1,5 +1,4 @@
 *.iml
-*.jks
 .gradle
 /local.properties
 /.idea/libraries
@@ -9,3 +8,4 @@
 /build
 /captures
 .externalNativeBuild
+keyBuilds.jks
